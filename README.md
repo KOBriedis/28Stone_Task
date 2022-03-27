@@ -1,4 +1,4 @@
-# 28Stone_Task (EUCountriesApi)
+# EUCountriesApi
 
 Visual Studio 2022 was used for development.
 
